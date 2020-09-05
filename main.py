@@ -1,7 +1,7 @@
 # Author: Dominic Savaglio djs7129@psu.edu
 # Collaborator: Shakeb 
 grade_one = (input("Enter your course 1 letter grade: "))
-credit_one = float(input("Enter your course 1 credit : "))
+credit_one = float(input("Enter your course 1 credit: "))
 point_one = 0
 if grade_one == 'A':
   point_one = 4.0
